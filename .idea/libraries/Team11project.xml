@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Team11project">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/Team11project.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
